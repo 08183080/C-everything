@@ -9,4 +9,5 @@ C语言和【太空大战】游戏很有渊源
 - [ ] [Linux](https://github.com/torvalds/linux/tree/master)
 ## 优秀书籍
 - [ ] 嵌入式C语言自我修养: 从芯片、编译器到操作系统
-
+## Keyword (关键字)
+- [ ] inline: 顾名思义, 内连, 加速compiler优化
