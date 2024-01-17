@@ -12,3 +12,7 @@ C语言和【太空大战】游戏很有渊源
 ## Keyword (关键字, kw)
 - [ ] inline: 顾名思义, 内连, 加速compiler优化
 <img width="460" alt="image" src="https://github.com/08183080/C-everything/assets/51738561/c87ac5d2-07cd-4192-b064-d45f1681dc90">
+- [ ] enum: 数据类型, 枚举
+```
+enum 枚举名 {枚举元素1, 枚举元素2, 枚举元素3, ....};
+```
