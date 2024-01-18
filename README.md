@@ -20,3 +20,6 @@ enum 枚举名 {枚举元素1, 枚举元素2, 枚举元素3, ....};
 ### Linux
 - [ ] [Linux](https://github.com/torvalds/linux/tree/master)
 - [ ] Linux是用gnu风格的扩展C写的
+
+## Environment
+- [ ] Vscode + C插件
