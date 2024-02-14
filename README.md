@@ -6,8 +6,8 @@ C语言和【太空大战】游戏很有渊源
 ## Books
 - [ ] 嵌入式C语言自我修养: 从芯片、编译器到操作系统
 ## Keyword (关键字, kw)
-- [ ] inline: 顾名思义, 内连, 加速compiler优化
-- [ ] enum: 数据类型, 枚举
+- [x] inline: 顾名思义, 内连, 加速compiler优化
+- [x] enum: 数据类型, 枚举
 ```
 enum 枚举名 {枚举元素1, 枚举元素2, 枚举元素3, ....};
 ```
@@ -18,8 +18,8 @@ enum 枚举名 {枚举元素1, 枚举元素2, 枚举元素3, ....};
 ## C & Compiler
 ## C & OS
 ### Linux
-- [ ] [Linux](https://github.com/torvalds/linux/tree/master)
-- [ ] Linux是用gnu风格的扩展C写的
-
+- [x] [Linux](https://github.com/torvalds/linux/tree/master)
+- [x] Linux是用gnu风格的扩展C写的
+- [ ] 【Linux-0,01】https://github.com/08183080/linux-0.01/tree/hello
 ## Environment
-- [ ] Vscode + C插件
+- [x] Vscode + C插件
